@@ -1,0 +1,10 @@
+# Typical build by-products
+*.a
+*.so
+*.o
+*.out
+
+bin/
+build/
+
+.DS_Store
